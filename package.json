@@ -11,14 +11,4 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kookootuts/nodejs-helloworld.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kookootuts/nodejs-helloworld/issues"
-  },
-  "homepage": "https://github.com/kookootuts/nodejs-helloworld#readme"
 }
