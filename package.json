@@ -2,7 +2,7 @@
   "name": "kookoo-hello-world-node",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.13.3",
     "xml": "^1.0.0"
