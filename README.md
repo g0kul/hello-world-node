@@ -7,7 +7,7 @@ Simply says "Hello World" upon calling a number.
 To run this project on your computer, download or clone the source. You will also need to download and install [Node.js](http://nodejs.org/) , which should also install [npm](https://iojs.org/en/index.html). You will also need to sign up for a [KooKoo account](http://kookoo.ozonetel.com/index.php/component/user/?task=register) if you don't have one already.
 
 ```bash
-git clone git@github.com:kookootuts/helloworld-node.git
+git clone git@github.com:kookootuts/hello-world-node.git
 ```
 ## Install Dependencies
 
